@@ -1,0 +1,52 @@
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.csproj.AssemblyReference.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.csproj.GenerateResource.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.AssemblyInfoInputs.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.AssemblyInfo.cs
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\SchoolManagement.exe
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\SchoolManagement.deps.json
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\SchoolManagement.runtimeconfig.json
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\SchoolManagement.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\SchoolManagement.pdb
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\refint\SchoolManagement.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.pdb
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.genruntimeconfig.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\ref\SchoolManagement.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.csproj.CopyComplete
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.management_page.resources
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.LoginForm.resources
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.RegisterPage.resources
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\SchoolManagement.exe
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\SchoolManagement.deps.json
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\SchoolManagement.runtimeconfig.json
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\SchoolManagement.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\SchoolManagement.pdb
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.csproj.AssemblyReference.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.management_page.resources
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.LoginForm.resources
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.RegisterPage.resources
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.csproj.GenerateResource.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.AssemblyInfoInputs.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.AssemblyInfo.cs
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolMa.86B6095E.Up2Date
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\refint\SchoolManagement.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.pdb
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\SchoolManagement.genruntimeconfig.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\Examination\PRG521\SchoolManagement\SchoolManagement\obj\Debug\net7.0-windows\ref\SchoolManagement.dll
